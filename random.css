@@ -1,0 +1,17 @@
+div{
+	height: 600px;
+	width: 600px;
+	background-color: yellow;
+	border-style: dashed;
+
+}
+
+.left{
+	width: 552px;
+	height: 504px;
+}
+
+.right{
+	width: 552px;
+	height: 504px;
+}
